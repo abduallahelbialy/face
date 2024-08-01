@@ -120,7 +120,7 @@ footer {
     align-items: center;
     background-color: white;
     padding: 20px;
-    width: 362px;
+    width: 350px;
     height: 400px;
     margin: auto;
     border-radius: 8px;
